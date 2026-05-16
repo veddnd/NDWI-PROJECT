@@ -2,4 +2,6 @@
 node_modules/
 
 # env files
+*.json
+gee-key.json.json
 .env
